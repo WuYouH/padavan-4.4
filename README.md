@@ -74,7 +74,7 @@ This project is based on original rt-n56u with latest mtk 4.4.198 kernel, which 
     # nano configs/templates/K2P.config
 
     # Start compiling
-    fakeroot ./build_firmware_modify K2P
+    fakeroot ./build_firmware_modify R2100
 
     # To build firmware for other devices, clean the tree after previous build
     ./clear_tree
