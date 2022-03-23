@@ -71,7 +71,7 @@ This project is based on original rt-n56u with latest mtk 4.4.198 kernel, which 
     cd padavan-4.4/trunk
 
     # (Optional) Modify template file
-    # nano configs/templates/K2P.config
+    nano configs/templates/R2100.config
 
     # Start compiling
     fakeroot ./build_firmware_modify R2100
